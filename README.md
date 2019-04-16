@@ -25,6 +25,9 @@ Because I remember that it took a bit of time for me to understand, I was hoping
 
 ### Merge (Combine) [WIP]
 
+### Tickle
+![](img/merge-sort-tickle.gif)
+
 ### TODO
 * Complete Merge Step
 * Fix Test Suite
