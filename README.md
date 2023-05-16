@@ -1,5 +1,5 @@
 # Merge Sort Interactive
-Interactive Merge Sort 2.0 is a revisit of an old project I did when I was first learning web dev. Now that its been 4 years I wanted to recreate the app. If you don't want to fork this front end code, just check out the WORK IN PROGRESS remake here:
+Interactive Merge Sort 2.0 is a revisit of an old project I did. Check out the WORK IN PROGRESS remake here:
 https://codepen.io/0xbri/pen/KgrqXk?editors=1111 
 
 
